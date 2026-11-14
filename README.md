@@ -1,10 +1,29 @@
-- 👋 Hi, I’m @Ritwikjoshi
-- 👀 I’m interested in #AI, #Chatbots, #RPA and #Startups
-- 🌱 I’m currently learning to learn
-- 💞️ I’m looking to collaborate on anything interesting
-- 📫 You can reach me at ping@ritwikjoshi.com
+# Ritwik Joshi
 
-<!---
-Ritwikjoshi/Ritwikjoshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**2x TEDx Speaker | Founder @ Yantrarora Innovation (Robosa Humanoid Robotics) | Partner & Tech Director @ GENIE AI | AI & Physical AI Keynote Speaker**
+
+Based in Udaipur, Rajasthan, India, I build sovereign humanoid robotics hardware, production multi-agent AI architectures, and machine-readable personal knowledge infrastructure.
+
+- **Official Website:** [https://ritwikjoshi.com](https://ritwikjoshi.com)
+- **Robosa Robotics:** [https://ritwikjoshi.com/robosa](https://ritwikjoshi.com/robosa) (`Yantrarora Innovation Private Limited`, CIN: `U28299RJ2025PTC109618`)
+- **Personal MCP Server (v1.0.2, Streamable HTTP):** [`https://api.ritwikjoshi.com/mcp`](https://ritwikjoshi.com/mcp-docs)
+- **Media Kit & Press Assets:** [https://ritwikjoshi.com/media-kit](https://ritwikjoshi.com/media-kit)
+
+---
+
+### Ventures & Leadership
+- **Founder — [Yantrarora Innovation Private Limited](https://ritwikjoshi.com/robosa) (`Robosa`)**: Engineering an indigenous biomimetic humanoid robotics platform (28 body DoF + 47 facial micro-actuators; sub-\$8,000 / ₹6.7 Lakh target unit cost).
+- **Partner & Tech Director — GENIE AI (Canada)**: Directing enterprise generative AI architecture and multi-agent workflow deployment.
+- **Co-Founder & CTO — Ability Advocacy**: Architecting assistive technologies and accessible rehabilitation software.
+
+### Speaking & Education
+- **30+ speaking engagements** reaching **12,000+ attendees** across **India, Canada, UAE, and Malaysia** (IBM Developer Connect, Microsoft, TiE, IIM Ahmedabad, NIT Calicut, Dubai Expo 2020).
+- **2x TEDx Speaker:**
+  - *The Symbiotic Future of AI* — TEDxOIST (2024): [Watch on YouTube](https://www.youtube.com/watch?v=p4NQSDaGsxU)
+  - *The Emergence and Growth of AI* — TEDxYouth@OGS (2023): [Watch on YouTube](https://www.youtube.com/watch?v=RK9dubyLJJE)
+- **Executive Education:** IIM Ahmedabad (YEP & CEO Programs), ISB Hyderabad (Business Storytelling & Executive Presence), B.Tech Computer Science (Rajasthan Technical University).
+
+### Connect & Bookings
+- **Booking Desk (`Within 6 hours` response SLA):** `booking@ritwikjoshi.com`
+- **Press & Media:** `media@ritwikjoshi.com`
+- **LinkedIn:** [linkedin.com/in/ritwik-joshi](https://www.linkedin.com/in/ritwik-joshi/) · **X:** [@ChatbotWala](https://x.com/ChatbotWala) · **YouTube:** [@RitwikJoshi](https://www.youtube.com/@RitwikJoshi)
