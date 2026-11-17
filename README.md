@@ -1,18 +1,17 @@
 # Ritwik Joshi
 
-**2x TEDx Speaker | Founder @ Yantrarora Innovation (Robosa Humanoid Robotics) | Partner & Tech Director @ GENIE AI | AI & Physical AI Keynote Speaker**
+**2x TEDx Speaker | Founder @ Robosa (Stealth) | Partner & Tech Director @ GENIE AI | AI & Physical AI Keynote Speaker**
 
-Based in Udaipur, Rajasthan, India, I build sovereign humanoid robotics hardware, production multi-agent AI architectures, and machine-readable personal knowledge infrastructure.
+Based in Udaipur, Rajasthan, India, I build Physical AI systems, production multi-agent AI architectures, and machine-readable personal knowledge infrastructure.
 
 - **Official Website:** [https://ritwikjoshi.com](https://ritwikjoshi.com)
-- **Robosa Robotics:** [https://ritwikjoshi.com/robosa](https://ritwikjoshi.com/robosa) (`Yantrarora Innovation Private Limited`, CIN: `U28299RJ2025PTC109618`)
 - **Personal MCP Server (v1.0.2, Streamable HTTP):** [`https://api.ritwikjoshi.com/mcp`](https://ritwikjoshi.com/mcp-docs)
 - **Media Kit & Press Assets:** [https://ritwikjoshi.com/media-kit](https://ritwikjoshi.com/media-kit)
 
 ---
 
 ### Ventures & Leadership
-- **Founder — [Yantrarora Innovation Private Limited](https://ritwikjoshi.com/robosa) (`Robosa`)**: Engineering an indigenous biomimetic humanoid robotics platform (28 body DoF + 47 facial micro-actuators; sub-\$8,000 / ₹6.7 Lakh target unit cost).
+- **Founder — Robosa (Stealth)**: Stealth Physical AI & robotics startup.
 - **Partner & Tech Director — GENIE AI (Canada)**: Directing enterprise generative AI architecture and multi-agent workflow deployment.
 - **Co-Founder & CTO — Ability Advocacy**: Architecting assistive technologies and accessible rehabilitation software.
 
